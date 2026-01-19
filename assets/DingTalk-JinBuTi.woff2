@@ -1,0 +1,147 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta content="yes" name="apple-mobile-web-app-capable"/>
+    <meta content="black" name="apple-mobile-web-app-status-bar-style">
+    <meta content="telephone=no" name="format-detection"/>
+    <meta content="yes" name="apple-touch-fullscreen"/>
+    <title></title>
+    <meta name="author" content="www.dingtalk.com" />
+    <meta name="copyright" content="Copyright &copy;www.dingtalk.com 版权所有" />
+    <link rel="shortcut icon" id="favicon" href="//g.alicdn.com/dingding/web/0.2.6/img/oldIcon.ico" type="image/x-icon">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no" />
+    <meta name="author" content="www.dingtalk.com" />
+    <meta name="data-spm" content="a3140.7832593">
+    <meta name="description" content="钉钉是阿里集团专为中小企业打造的通讯、协同的移动办公平台，帮助企业内部沟通和商务沟通更加高效安全。特色支持：消息阅读状态一目了然，重要事DING电话使命必达，紧急事免费电话多方通话，企业通讯录随时随地找人，多端互动。">
+    <meta name="keywords" content="阿里钉钉，企业即时通讯软件，移动办公，免费电话多方通话，免费电话会议">
+</head>
+<body data-spm=""><script>
+with(document)with(body)with(insertBefore(createElement("script"),firstChild))setAttribute("exparams","category=&userid=&aplus&yunid=&&trid=2499553417688148441338972e&asid=AQAAAAD8+G1pBTihYQAAAACWHfifRVc1pQ==",id="tb-beacon-aplus",src=(location>"https"?"//g":"//g")+".alicdn.com/alilog/mlog/aplus_v2.js")
+</script>
+<script>
+with(document)with(body)with(insertBefore(createElement("script"),firstChild))setAttribute("exparams","category=&userid=&aplus&yunid=&&asid=AQAAAAD8+G1pHFosFwAAAAAte5hSsOPnvA==",id="tb-beacon-aplus",src=(location>"https"?"//g":"//g")+".alicdn.com/alilog/mlog/aplus_v2.js")
+</script>
+
+    <style type="text/css">
+    html{color:#000;background:#FFF}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0}table{border-collapse:collapse;border-spacing:0}fieldset,img{border:0}address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal}ol,ul{list-style:none}caption,th{text-align:left}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal}q:before,q:after{content:''}abbr,acronym{border:0;font-variant:normal}sup{vertical-align:text-top}sub{vertical-align:text-bottom}input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit;*font-size:100%}legend{color:#000}#yui3-css-stamp.cssreset{display:none}
+    </style>
+    <style type="text/css">
+        html,body {
+            width:100%;
+            height: 100%;
+        /*    padding:0;
+            margin:0;
+            border: 0;*/
+        }
+        .wrap {
+            width: 100%;
+            height: 100%;
+            /* background: #efeff4;*/
+            background:#ffffff;
+        }
+        .imgBox{
+            position:relative;
+            width:100%;
+            height:50%;
+            text-align: center;
+        }
+        .imgBox img{
+            display: block;
+            position:absolute;
+            left:50%; top:50%;
+            width:248px;
+            height:248px;
+            margin-left:-134px;
+            margin-top:-100px;
+
+        }
+        .textBox{
+            display: inline-block;
+            width:100%;
+            height:50%;
+            text-align: center;
+        }
+        .textBox h2{
+            color: #929292;
+            font-family: "Helvetica Neue",Helvetica,Arial,"Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei",sans-serif;
+            /*   text-shadow: 0 1px 3px rgba(0,0,0,.4),0 0 30px rgba(0,0,0,.075);*/
+            font-size:48px;
+        }
+        @media(min-height:480px){
+            .imgBox img{
+                width:175px;
+                height:175px;
+                margin-left:-85px;
+                margin-top:-50px;
+            }
+            .textBox h2{
+                font-size:24px;
+            }
+        }
+        @media(min-height:640px){
+            .imgBox img{
+                width:200px;
+                height:200px;
+                margin-left:-100px;
+                margin-top:-70px;
+            }
+            .textBox h2{
+                font-size:30px;
+            }
+        }
+        @media(min-height:800px){
+            .imgBox img{
+                width:248px;
+                height:248px;
+                margin-left:-134px;
+                margin-top:-100px;
+            }
+            .textBox h2{
+                font-size:48px;
+            }
+        }
+        @media(min-height:1136px){
+            .imgBox img{
+                width:300px;
+                height:300px;
+                margin-left:-150px;
+                margin-top:-100px;
+            }
+            .textBox h2{
+                font-size:58px;
+            }
+        }
+    </style>
+    <div class="wrap">
+        <div class="imgBox">
+            <img src="//img.alicdn.com/tps/TB1f22jJVXXXXXiXpXXXXXXXXXX-300-300.png">
+        </div>
+        <div class="textBox" id="textBox1"  style="display:none;">
+            <h2>页面出错了， <br/>请稍候再访问。</h2>
+        </div>
+        <div class="textBox" id="textBox2"  style="display:none;">
+            <h2>Error! <br/>Please visit later again.</h2>
+        </div>
+    </div>
+    <script src="//g.alicdn.com/dingding/libs/0.4.1/dingtalk-i18n/dingtalki18n.min.js"></script>
+    <script>
+        if(window.dd_i18next){
+            window.dd_i18next.clear();
+            window.dd_i18next.autoInit();
+            var lang = window.dd_i18next.i18next.languages[0];
+            if(lang&&lang.indexOf('zh') == 0){
+                document.getElementById('textBox1').style.display='block';
+                document.title="出错了";
+            }else{
+                document.getElementById('textBox2').style.display='block';
+                document.title="Error";
+            }
+        }else{
+            document.getElementById('textBox1').style.display='block';
+        }
+    </script>
+</body>
+</html>
